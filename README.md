@@ -1,4 +1,4 @@
-# Project-Spark-HDFS (Big Data)
+# Project- Hadoop + PySpark(Big Data)
   
 Setul de date utilizat este Walmart Recruiting - Prognoza vânzărilor în magazin  
 Setul de date curatat poate fi descarcat accesand linkul:  
