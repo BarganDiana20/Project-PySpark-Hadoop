@@ -1,15 +1,15 @@
 # Project-Spark-HDFS
-Project Spark&amp;HDFS (Big Data) 
-Setul de date utilizat este Walmart Recruiting - Prognoza vânzărilor în magazin
-Setul de date curatat poate fi descarcat accesand linkul:
-   https://drive.google.com/file/d/1CYkbzqXwAu83SSg4GurgQKAunIC8A09J/view?usp=sharing 
+Project Spark&amp;HDFS (Big Data)   
+Setul de date utilizat este Walmart Recruiting - Prognoza vânzărilor în magazin  
+Setul de date curatat poate fi descarcat accesand linkul:  
+   https://drive.google.com/file/d/1CYkbzqXwAu83SSg4GurgQKAunIC8A09J/view?usp=sharing   
 
 
 # Cerințele proiectui Hadoop + Spark
 
-Cerințele sunt:
-1.	Minim cate un pic din fiecare (nota 5+):
-•	Sa aveți un cluster de minim 2 noduri (plus master) funcțional pe RaaS-IS (conform cu tutorialul prezentat la curs si pe Drive)
+Cerințele sunt:  
+1.	Minim cate un pic din fiecare (nota 5+):  
+•	Sa aveți un cluster de minim 2 noduri (plus master) funcțional pe RaaS-IS (conform cu tutorialul prezentat la curs si pe Drive)  
 •	Sa încărcați datele folosite in HDFS (hdfs dfs -put … | mkdir | etc.)
 •	Sa porniti masterul de Spark + workers (arm-env.sh + master:8080 in browser si celelalte servicii)
 •	Sa folosiți Jupyter Lab pentru notebooks
