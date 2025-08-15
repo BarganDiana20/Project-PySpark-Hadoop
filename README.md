@@ -1,6 +1,6 @@
 # Project- Hadoop + PySpark(Big Data)
   
-The dataset used is Walmart Recruiting - Store Sales Forecast
+The dataset used is Walmart Recruiting - Store Sales Forecast  
 The cleaned dataset can be downloaded by accessing the link:
    https://drive.google.com/file/d/1CYkbzqXwAu83SSg4GurgQKAunIC8A09J/view?usp=sharing   
 
